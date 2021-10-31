@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b097eab5-58af-48f0-8fd3-951371c8d5d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="b097eab5-58af-48f0-8fd3-951371c8d5d8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20HTxluMwr6dVNS9m6Wytj5lPYP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,6 +31,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635700764145</updated>
       <workItem from="1635700767311" duration="355000" />
+      <workItem from="1635701128482" duration="301000" />
     </task>
     <servers />
   </component>
@@ -39,6 +39,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="459" y="313" width="585" height="218" key="Github.ShareDialog" timestamp="1635701204444">
+      <screen x="0" y="25" width="1280" height="775" />
+    </state>
+    <state x="459" y="313" width="585" height="218" key="Github.ShareDialog/0.25.1280.775@0.25.1280.775" timestamp="1635701204444" />
     <state width="1238" height="83" key="GridCell.Tab.0.bottom" timestamp="1635701124382">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
